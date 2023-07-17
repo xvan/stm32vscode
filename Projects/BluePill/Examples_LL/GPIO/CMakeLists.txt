@@ -1,0 +1,2 @@
+add_subdirectory(GPIO_InfiniteLedToggling)
+add_subdirectory(GPIO_InfiniteLedToggling_Init)
