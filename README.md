@@ -41,3 +41,5 @@ Launch:
 ```
 
 Note: Cmake debug shortuct doesn't work with OpenOCD.
+
+[Original STM32CubeF1 README](Original_README.md)
